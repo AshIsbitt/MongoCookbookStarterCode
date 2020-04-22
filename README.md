@@ -1,4 +1,4 @@
-# Mongo Cookbook Starter Code
+# Mongo Cookbook Starter Code :mango:
 
 The purpose of this repo is to be a basic installation of MongoDB within a *Chef* recipe, with all tests passing and preparred for installation to AWS.
 
