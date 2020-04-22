@@ -1,12 +1,13 @@
 # Mongo Cookbook Starter Code
 
-The purpose of this repo is to be a basic installation of MongoDB within a chef recipe, with all tests passing and preparred for installation to AWS.
+The purpose of this repo is to be a basic installation of MongoDB within a *Chef* recipe, with all tests passing and preparred for installation to AWS.
 
 ## Prerequisites
 
-- gnupg
-	- `sudo apt-get install gnupg`
+- Git
+- Vagrant
 - Chef
+- AWS CLI v2
 
 ## Installation
 
