@@ -1,5 +1,7 @@
 # Mongo Cookbook Starter Code
 
+The purpose of this repo is to be a basic installation of MongoDB within a chef recipe, with all tests passing and preparred for installation to AWS.
+
 ## Prerequisites
 
 - gnupg
@@ -7,6 +9,8 @@
 - Chef
 
 ## Installation
+
+To download this repo, run `git clone git@github.com:AshIsbitt/MongoCookbookStarterCode.git`
 
 ## Chef
 
